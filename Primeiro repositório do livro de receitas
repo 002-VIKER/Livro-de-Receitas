@@ -1,0 +1,7 @@
+# Primeiros passos no git/github
+##comandos do GI
+- ls para listar
+- cltr + L para limpar a tela
+- cd para acessar  o arquivo
+- GIT status para saber a situação do arquivo
+- GIT commint -m para comintar e escrever um comentar
